@@ -1,0 +1,47 @@
+html {
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    color: #d7d7dc;
+    background-color: #19263fee;
+}
+
+a[href] {
+    color: #a994e4;
+}
+
+a[href]:visited {
+    color: #9275e8;
+}
+
+a[href]:hover,
+a[href]:active {
+    color: #de98be;
+}
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
+/* Navigation CSS*/
+.nav{
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  ul li a {
+    display: flex;
+    padding: 14px 16px;
+
+  }
+}
