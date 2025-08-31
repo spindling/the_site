@@ -1,5 +1,5 @@
 ---
-title: 'SPINDLING'
-metaDesc: 'A blog site for user spindling'
+title: 'Jeremy Nugara'
+metaDesc: 'Portfolio and blog for Jeremy Nugara'
 layout: 'layouts/home.html'
 ---
