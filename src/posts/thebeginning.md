@@ -13,7 +13,7 @@ So I embarked on my quest. Eleventy (11ty) is a static site generator (SSG) like
 
 Hoo-wee, I could not have been more wrong. But this is not Eleventy's fault. I simply don't have the coding skills just yet. After trying the excellent [Learn Eleventy](https://learn-eleventy.pages.dev/) tutorials, I was deep in the weeds and eyeing Wordpress once more. 
 
-So I'm taking a step back. I'll attempt to learn each part separately, starting with HTML and CSS.
+So I'm taking a step back. I'll attempt to learn each part separately, starting with [HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE) and [CSS](https://www.youtube.com/watch?v=OXGznpKZ_sA).
 
 It's similar to purchasing a fixer-upper house and doing the renovations yourself... while living in it. Now, real-estate isn't really in the cards for most people of my generation, but you get the point. There is a definite satisfaction in trying to build something piece by piece. It comes out personalized, and there's a chance to learn plenty of interesting things along the way.
 
@@ -24,4 +24,3 @@ I often tend to find myself hesitating to start a new project because I don't fe
 Start and try what you can.<br>
 Improve it later.<br>
 Learn as you go. 
-
